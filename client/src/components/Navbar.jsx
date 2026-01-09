@@ -18,7 +18,7 @@ const Navbar = () => {
   return (
     <nav className="p-5 bg-indigo-500">
       <div className="flex justify-between items-center">
-        <h1 className="text-2xl text-white font-semibold">NoteForge</h1>
+        <h1 className="text-2xl text-white font-semibold">NodeCloud</h1>
 
         {/* Desktop Menu */}
         <div className="hidden md:flex items-center gap-5 w-full justify-end">
