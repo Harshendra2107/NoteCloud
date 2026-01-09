@@ -1,9 +1,9 @@
-# NoteForge
+# NoteCloud
 
 A powerful and minimal notes app to create, organize, and manage your ideas with ease.  
 NoteForge is designed to be fast, clean, and accessible across devices.
 
-**Live Demo:** [noteforge-lilac.vercel.app](https://noteforge-lilac.vercel.app)
+**Live Demo:** [NoteCloud-lilac.vercel.app](https://noteforge-lilac.vercel.app)
 
 ---
 
@@ -29,10 +29,10 @@ NoteForge is designed to be fast, clean, and accessible across devices.
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/noteforge.git
+git clone https://github.com/Harshendra2107/notecloud.git
 
 # Go to project folder
-cd noteforge
+cd notecloud
 
 # Install dependencies
 npm install
